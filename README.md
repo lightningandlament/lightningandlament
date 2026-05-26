@@ -7,6 +7,8 @@
 
 ₍^. .^₎Ⳋ i love eating vanilla pudding 🍮
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i3xznaz732qjaqee5zknobzmuy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=ff8800&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ![](https://komarev.com/ghpvc/?username=lightningandlament&color=orange&style=plastic&label=scientists+saved)
 
 ![](https://64.media.tumblr.com/4f9c4d9a8aad925823d28dcd4d0bcf1f/cfa03931bb88b3e8-31/s250x400/fc26ef79e65229c89e83ce92dc7e7116e9d7bb30.gif)
